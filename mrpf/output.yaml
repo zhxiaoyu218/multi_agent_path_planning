@@ -13,6 +13,9 @@ schedule:
   - t: 3
     x: 2
     y: 0
+  - t: 4
+    x: 2
+    y: 0
   agent1:
   - t: 0
     x: 2
